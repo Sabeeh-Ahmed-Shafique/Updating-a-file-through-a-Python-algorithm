@@ -54,7 +54,6 @@ I created an algorithm that removes IP addresses identified in a remove_list var
 ---
 
 
-[Update a file through a python algorithm]()
-
+[Update a file through a python algorithm](https://raw.githubusercontent.com/Sabeeh-Ahmed-Shafique/Updating-a-file-through-a-Python-algorithm/94f4212ef6d7110a7b07aa9725d368bfadc4dc4f/_Update%20a%20file%20through%20a%20Python%20algorithm.docx)
 
 To access the complete document, please consider the above link. 
